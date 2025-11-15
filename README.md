@@ -20,7 +20,7 @@ Python, Pandas/NumPy, GeoPandas, Matplotlib/Seaborn, Scikit-learn, Prophet, Foli
 
 ## Maps
 Interactive maps are saved in `results/`.  
-[View clustering map](https://arezoozarea.github.io/TehranCosmeticDemandForecast/tehran_neighborhoods.html)
+[View clustering map](https://arezoozarea.github.io/tehran-cosmetic-demand-forecast/tehran_neighborhoods.html)
 
 ## Author
 **Arezoo** — Data Analyst & GIS Specialist
